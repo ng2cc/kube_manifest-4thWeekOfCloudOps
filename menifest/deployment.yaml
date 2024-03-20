@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ng2cc/todo-app:build-29
+        image: ng2cc/todo-app:build-2
         ports:
         - containerPort: 80
 
